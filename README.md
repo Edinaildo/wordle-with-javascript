@@ -1,1 +1,1 @@
-#[Jogue agora] (https://edinaildo.github.io/wordle-with-javascript/)
+# [Jogue agora](https://edinaildo.github.io/wordle-with-javascript/)
